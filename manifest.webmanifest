@@ -1,0 +1,10 @@
+{
+  "name": "byVERO",
+  "short_name": "byVERO",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F3E4D5",
+  "theme_color": "#F3E4D5",
+  "description": "Your independent home-buying assistant in Spain.",
+  "icons": []
+}
